@@ -1,6 +1,5 @@
 const name='Vibhor';
 const greeting='Good Morning';
-console.log(greeting+' '+name);
 let html;
 html='<h1> this is heading</h1> '+
    "<p> this is para </p>";
